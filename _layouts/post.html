@@ -14,6 +14,7 @@ layout: home
           <ul id="js-results-container" class="c-search-results-list"></ul>
         </div>
       </div>
+            {% include advertisements.html %}
     </header>
     {% if page.image %}
     <div class="c-article__image o-opacity" style="background-image: url( {{"/images/" | prepend: site.baseurl | append : page.image}} )"></div>
@@ -40,7 +41,6 @@ layout: home
           <a href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}" title="Share on Google+" rel="nofollow" target="_blank"><div data-icon='ei-sc-google-plus' data-size='s'></div></a>
         </div>
       </div>
-      {% include advertisements.html %}
       {% include newsletter.html %}
       <div class="c-recent-post">
         <h4 class="c-recent__title">You might also enjoy</h4>
