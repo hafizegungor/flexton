@@ -1,5 +1,4 @@
 <h1>Flexton is an ultra-minimalist and responsive theme for Jekyll</h1>
-
 <p>Flexton created especially for those who appreciate minimalism and functionality.</p>
 <p>Amazing flexibility with pleasant colors and custom design makes Flexton a simple theme, suitable for almost any blog.</p>
 
