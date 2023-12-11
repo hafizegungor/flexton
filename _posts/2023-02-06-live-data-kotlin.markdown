@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Deep dive into the LiveData
-image: 6.jpg
+image: 001.jpg
 date: 2023-02-06 10:23:20 +0200
 tags: [android, kotlin, livedata]
 categories: android
