@@ -27,18 +27,20 @@ Storyboard and SwiftUI are both tools used in iOS app development, but they diff
 
 Storyboard and SwiftUI are both tools used in iOS app development, but they differ significantly in how they create user interfaces.
 
-Storyboard:
+* Storyboard:
 
 Storyboard is an interface builder in Xcode used to visually design an app's user interface.
 It allows developers to design UI elements, layout screens, create segues (transitions between screens), and set up the flow of the app by connecting different view controllers.
 It uses Interface Builder, a drag-and-drop interface, to arrange UI elements and set their properties.
 Storyboard uses a graphical representation of the app's screens and their relationships, making it easy to visualize the app's structure.
-SwiftUI:
+
+* SwiftUI:
 
 SwiftUI is a declarative UI framework introduced by Apple, allowing developers to build user interfaces using Swift code.
 It uses a declarative syntax, meaning developers describe the UI and its behavior in code, specifying what the UI should look like based on its state and data.
 SwiftUI provides a more modern and streamlined way of creating UI, reducing the reliance on Interface Builder and offering a more straightforward approach using Swift code.
 It offers features like reactive updates (UI automatically updates when underlying data changes) and a simplified way to create complex UI components.
+
 In summary, Storyboard is a visual tool that allows developers to design an app's UI by arranging elements graphically, while SwiftUI is a more code-centric approach where UI is constructed using Swift code with a declarative syntax.
 Both have their strengths and can be used depending on the developer's preferences and project requirements.
 Storyboard offers a visual design approach where UI elements are laid out graphically, connected with segues to form the app flow.
