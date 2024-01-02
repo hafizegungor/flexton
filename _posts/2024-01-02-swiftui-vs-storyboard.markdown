@@ -2,7 +2,7 @@
 layout: post
 title: SwiftUi vs Storyboard
 image: apple.png
-date: 2023-02-06 10:23:20 +0200
+date: 2024-01-02 10:23:20 +0200
 tags: [ios, swiftui, storyboard]
 categories: ios
 ---
