@@ -82,4 +82,3 @@ SwiftUI uses a NavigationView to handle navigation between views.
 To transition from the login screen to the home screen, you can use NavigationLink or change the view programmatically based on login success.
 These examples demonstrate the basic setup of a login screen and home screen using Storyboard's visual interface building approach versus SwiftUI's code-based declarative approach. In SwiftUI, the UI elements and their behavior are described directly in Swift code, promoting a more streamlined and descriptive way of creating the user interface.
 
-# Both Storyboard and SwiftUI have their own set of advantages and drawbacks in iOS app development.
